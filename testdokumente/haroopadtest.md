@@ -13,7 +13,17 @@ import matplotlib.pyplot as plt
 x = np.linspace(-10., 10., 1000)
 plt.plot(x, np.sin(x))
 ```
-Auch Haroopad kann ==Fußnoten==[^fn] und der Editor ist plattformübergreifend. Leider wirkt die Vorschau ein wenig ausgefranzt und die Dokumentation ist momentan nur auf koreanisch vollständig.
+
+Und noch mehr Formeln:
+
+$$
+\begin{align}
+\rho=e^{\cos(\theta)}-2\cdot \cos(4\cdot \theta)+\sin(\tfrac{\theta}{12})^5
+\end{align}
+$$
+
+
+Auch Haroopad kann ==Fußnoten==[^fn] (zumindest manchmal) und der Editor ist plattformübergreifend. Leider wirkt die Vorschau ein wenig ausgefranzt und die Dokumentation ist momentan nur auf koreanisch vollständig.
 
 [^fn]: Das ist eine Beispiel für eine Fußnote
 

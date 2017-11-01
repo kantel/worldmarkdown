@@ -2,7 +2,7 @@
 
 Ein Markdown-Editor für **alle** Äpfel. 🍎
 
-**Einstein**: $ E = mc ^2 \rm $
+**Einstein**: $$E = mc ^2 \rm$$
 
 Und ein wenig Python-Code:
 
