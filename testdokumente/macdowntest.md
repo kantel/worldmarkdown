@@ -14,15 +14,18 @@ x = np.linspace(-10., 10., 1000)
 plt.plot(x, np.sin(x))
 ~~~
 
-MacDown kann Fußnoten [^1], der Editor ist damit weiter als der Moeditor, aber eben -- wie der Name schon andeutet -- *Mac only*.
+MacDown kann Fußnoten [^1] und Inline-Fußnoten (?), der Editor ist damit weiter als der Moeditor, aber eben -- wie der Name schon andeutet -- *Mac only*.
 
 Und freistehende Formeln:
 
 $$
 \begin{align}
-\rho=e^{\cos(\theta)}-2\cdot \cos(4\cdot \theta)+\sin(\tfrac{\theta}{12})^5
+\rho=e^{\cos(\theta)}-2\cdot
+\cos(4\cdot
+\theta)+\sin(\tfrac{\theta}{12})^5
 \end{align}
 $$
+
 
 
 [^1]: Das ist ein Beispiel für eine Fußnote
